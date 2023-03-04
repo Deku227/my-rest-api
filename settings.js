@@ -1,10 +1,10 @@
 const fs = require('fs')
 
 global.creator = 'Net Pedia'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://Netpedia:Alanda672811@cluster0.vd978iz.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "evoslutvi123@gmail.com" //email
-global.email_password = "" //application password email
+global.email_password = "ioznuclqegsxamjh" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
